@@ -1,7 +1,7 @@
 # Arch Linux - Installation script
-This is my personal repo to install Arch Linux. I am not an expert so don't blindy install and think you get an out-of-the-box vanilla Arch experience. 
+This is my Arch installation repo which consists of several scripts to install Arch Linux (mostly) automatically.. I am not an expert so don't blindy install and think you get an out-of-the-box vanilla Arch experience. 
 
-My installation consists out of packages I have a personal preference for. Customize the source code to your liking and try my most favorite Linux distro!.
+My installation consists out of packages I have a personal preference for. Customize the source code to your liking and try my favorite Linux distro!
  
 My `arch-install.sh` installation script assumes you are installing Arch on a nvme ssd (***nvme0n1***). Find your own designated installation device by first looking it up via `lsblk`. The disk path is still hardcoded in my `arch-install.sh` script. So change that if your path differs.
 
